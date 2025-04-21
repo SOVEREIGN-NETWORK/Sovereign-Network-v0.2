@@ -1,3 +1,7 @@
+This is an old fork of Osmosis. it cant handle what our blockchain need so we are taking a differnt path.   -Peter from SovNet
+
+
+
 # Osmosis
 
 ![Banner!](assets/banner.png)
